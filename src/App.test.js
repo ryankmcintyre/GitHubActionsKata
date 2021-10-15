@@ -8,5 +8,6 @@ test('renders learn react link', () => {
 });
 
 test('checking equality', () => {
-  expect(1).toBe(1);
+  const one = 1;
+  expect(one).toBe(2);
 });
