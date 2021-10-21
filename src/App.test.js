@@ -9,5 +9,5 @@ test('renders learn react link', () => {
 
 test('checking equality', () => {
   const one = 1;
-  expect(one).toBe(2);
+  expect(one).toBe(1);
 });
